@@ -3,5 +3,6 @@
 #### :boom: Temas abordados durante o curso foram :rocket:
 - [Seção 01 - Introdução](https://github.com/romulovieira777/Formacao_Engenharia_de_Dados_Domine_Big_Data/tree/main/Secao_01_Introducao)
 - [Seção 02 - Aspectos Gerais sobre Engenharia de Dados](https://github.com/romulovieira777/Formacao_Engenharia_de_Dados_Domine_Big_Data/tree/main/Secao_02_Aspectos_Gerais_sobre_Engenharia_de_Dados)
+- [Seção 03 - Criando Conta e Ambiente no AWS]()
 
 Link para o curso: [Udemy](https://www.udemy.com/course/engenheiro-de-dados/)
