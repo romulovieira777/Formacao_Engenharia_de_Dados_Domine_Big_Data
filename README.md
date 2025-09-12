@@ -7,5 +7,6 @@
 - [Seção 04 - Armazenamentos de Dados Distribuídos - S3](https://github.com/romulovieira777/Formacao_Engenharia_de_Dados_Domine_Big_Data/tree/main/Secao_04_Armazenamentos_de_Dados_Distribuidos_S3)
 - [Seção 05 - Modelo Relacional e SQL - Postgres e EC2](https://github.com/romulovieira777/Formacao_Engenharia_de_Dados_Domine_Big_Data/tree/main/Secao_05_Modelo_Relacional_e_SQL_Postgres_e_Ec2/Slides)
 - [Seção 06 - Modelo Dimensional - Postegres e EC2](https://github.com/romulovieira777/Formacao_Engenharia_de_Dados_Domine_Big_Data/tree/main/Secao_06_Modelo_Dimensional_Postegres_e_EC2)
+- [Seção 07 - Data Warehouse Moderno e Data Lake - Redshift]()
 
 Link para o curso: [Udemy](https://www.udemy.com/course/engenheiro-de-dados/)
